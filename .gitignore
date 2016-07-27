@@ -1,0 +1,6 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/webroot/bower_components/*
+/webroot/node_modules/*
